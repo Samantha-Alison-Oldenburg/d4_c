@@ -1,0 +1,3 @@
+= D4C
+
+This project rocks and uses ISTG-LICENSE. If you don't know what that is, read the license.

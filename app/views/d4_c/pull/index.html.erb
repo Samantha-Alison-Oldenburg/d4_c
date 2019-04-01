@@ -1,0 +1,12 @@
+<h1>Pull</h1>
+<p>Pull down any changes from the remote and try to load them</p>
+
+<p>Currently on branch
+  <code>
+    <%= current_branch %>
+  </code>
+</p>
+
+<p> <%= delta_message %> </p>
+
+<%= button_to "Pull", d4_c.pull_callback_path, method: :post %>
