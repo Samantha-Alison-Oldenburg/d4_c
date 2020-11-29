@@ -1,3 +1,5 @@
 = D4C
 
+I got sick of the fact that it takes 30 minutes to deploy to staging, and so I thought of a way to get around that. However, I cannot possibly justify using this. It was still a fun experiment. 
+
 This project rocks and uses ISTG-LICENSE. If you don't know what that is, read the license.
